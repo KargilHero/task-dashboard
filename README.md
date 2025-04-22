@@ -1,8 +1,10 @@
+# Task Dashboard
+
 In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
@@ -15,5 +17,5 @@ This will show all the dependencies installed in your project:
 
 
 
-Link the for deployed app using netlify
+Link the for deployed app using Netlify
 [task-dashboard](https://super-praline-057c2c.netlify.app/)
