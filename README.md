@@ -11,7 +11,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-List Installed Dependenciessss
+List Installed Dependencies
 This will show all the dependencies installed in your project:
 ### `npm list`
 
