@@ -15,7 +15,7 @@ List Installed Dependencies
 This will show all the dependencies installed in your project:
 ### `npm list`
 
-link
+### link
 
 Link the for deployed app using Netlify
 [task-dashboard](https://super-praline-057c2c.netlify.app/)
