@@ -1,6 +1,6 @@
 # Task Dashboard
 
-In the project directory, you can
+In the project directory, you can run :
 
 ### `npm start`
 
