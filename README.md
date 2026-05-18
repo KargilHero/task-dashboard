@@ -1,7 +1,7 @@
 # Task Dashboard
 
 In the project directory, you can run :
-FDFFED
+
 ### `npm start` 
 
 Runs the app in development mode.\
