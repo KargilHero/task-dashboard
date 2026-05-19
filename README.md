@@ -1,7 +1,7 @@
 # Task Dashboard
 
 In the project directory, you can run :
-treter t
+
 ### `npm start` 
 
 Runs the app in development mode.\
